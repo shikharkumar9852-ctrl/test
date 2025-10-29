@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Create Amazing Website by Shikhar Kumar.">
+  <meta name="keywords" content="web design, coding, Shikhar Kumar">
+  <title>Website Layout | CodingLai</title> 
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
+</head>
+<body>
+  <nav>
+    <div class="menu">
+      <div class="logo">
+        <a href="#">Shikhar Kumar</a>
+      </div>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+  
+  <div class="img">
+    <!-- Hero Image Content -->
+  </div>
+  
+  <div class="center">
+    <div class="title">Create Amazing Website</div>
+  </div>
+  <section class="content">
+  <h2>Learn in Public Posts</h2>
+  <ul>
+    <li><a href="https://qr.ae/p2XCPY" target="_blank">Day 1 - Learning C++</a></li>
+    <li><a href="https://qr.ae/p2hNzU" target="_blank">Day 2 - Learning C++</a></li>
+    <li><a href="https://qr.ae/p2hN6n" target="_blank">Day 3 - Learning C++</a></li>
+    <li><a href="https://qr.ae/p2hN6p" target="_blank">Day 4 - Learning C++</a></li>
+    <li><a href="https://qr.ae/p2hNBV" target="_blank">Day 5 - Learning C++</a></li>
+    <li><a href="https://qr.ae/p2hNEg" target="_blank">Day 6 - Learning C++</a></li>
+    <li><a href="https://qr.ae/p2hNLF" target="_blank">Day 7 - Learning C++</a></li>
+    <li><a href="https://qr.ae/p2hN0J" target="_blank">Day 8 - Learning C++</a></li>
+    <li><a href="https://qr.ae/p28jzM" target="_blank">Day 9 - Learning C++</a></li>
+    <li><a href="https://qr.ae/p2hN0t" target="_blank">Day 10 - Learning C++</a></li>
+    <li><a href="https://qr.ae/p2hGXw" target="_blank">Day 11 - Learning C++</a></li>
+    <li><a href="https://qr.ae/p2hG7h" target="_blank">Day 12 - Learning C++</a></li>
+    <li><a href="https://qr.ae/p2hNfM" target="_blank">Day 13 - Learning C++</a></li>
+    <li><a href="https://qr.ae/p2hGXj" target="_blank">Day 14 - Learning C++</a></li>
+    <li><a href="https://qr.ae/p2hG8b" target="_blank">Day 15 - Learning C++</a></li>
+  </ul>
+</section>
+  <section id="faq">
+  <div class="container">
+    <h2>Frequently Asked Questions</h2>
+    <div class="faq-item">
+      <h3 class="faq-question">What is your experience in web development?</h3>
+      <p class="faq-answer">I have several years of experience in web development, specializing in HTML, CSS, JavaScript, and various frameworks like React and Node.js.</p>
+    </div>
+    <div class="faq-item">
+      <h3 class="faq-question">How can I contact you for a project?</h3>
+      <p class="faq-answer">You can reach out to me via LinkedIn or X (Twitter). Check the Contact section for links to my profiles.</p>
+    </div>
+    <div class="faq-item">
+      <h3 class="faq-question">Do you offer freelance services?</h3>
+      <p class="faq-answer">Yes, I offer freelance web development services. Feel free to get in touch to discuss potential projects.</p>
+    </div>
+    <!-- Add more FAQ items as needed -->
+  </div>
+</section>
+
+
+  <section id="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>Hi, I'm Shikhar Kumar, a passionate web developer with a knack for creating engaging and dynamic websites. My journey in web development started several years ago, and since then, I've worked on numerous projects ranging from simple landing pages to complex web applications.</p>
+      <p>With a strong foundation in HTML, CSS, and JavaScript, I also have experience with various frameworks and libraries, including React and Node.js. I strive to stay updated with the latest trends and technologies to ensure that my work is always cutting-edge.</p>
+    </div>
+  </section>
+  
+  <section id="contact">
+    <div class="container">
+      <h2>Contact Me</h2>
+      <p>If you have any questions or would like to get in touch, feel free to reach out to me through the following platforms:</p>
+      <ul>
+        <li><a href="https://www.linkedin.com/in/yourprofile" target="_blank">LinkedIn <i class="fab fa-linkedin"></i></a></li>
+        <li><a href="https://x.com/yourprofile" target="_blank">X (Twitter) <i class="fab fa-twitter"></i></a></li>
+      </ul>
+    </div>
+  </section>
+  
+  <footer>
+    <p>&copy; Thank You.</p>
+  </footer>
+</body>
+</html>
